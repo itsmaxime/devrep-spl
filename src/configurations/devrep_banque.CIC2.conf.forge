@@ -1,0 +1,32 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "ea962dcf-4f51-4232-9921-aa4dd117a090",
+        "57fb261f-eb23-404b-a2dc-d446502f7137",
+        "15130ae2-94d3-4f5b-83d0-4622a2c78f98",
+        "87ea6e5d-71a1-4810-874a-ade9cf7f1564",
+        "da9551d9-90af-4704-9071-0c9582fedabd",
+        "fc44d88f-6ee0-4907-9152-6b42672b6dca"
+    ],
+    "fileResourceConfiguration": [
+        {
+            "key": "df5de207-2ece-4b83-881c-049b70dddbc0",
+            "value": "images/bank_icons",
+            "fileName": "cic.png"
+        },
+        {
+            "key": "5718bfd1-150f-4ba5-9074-61d982decd01",
+            "value": "data",
+            "fileName": "cic.json"
+        },
+        {
+            "key": "35f75c22-56e1-4a1a-b186-a25c4994f9c6",
+            "value": "styles/banks",
+            "fileName": "cic.css"
+        }
+    ],
+    "textResourceConfiguration": [],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": []
+}

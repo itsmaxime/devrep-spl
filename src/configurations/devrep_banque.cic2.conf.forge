@@ -1,0 +1,22 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "ea962dcf-4f51-4232-9921-aa4dd117a090"
+    ],
+    "fileResourceConfiguration": [
+        {
+            "key": "df5de207-2ece-4b83-881c-049b70dddbc0",
+            "value": "images/bank_icons",
+            "fileName": "cic.png"
+        },
+        {
+            "key": "5718bfd1-150f-4ba5-9074-61d982decd01",
+            "value": "data",
+            "fileName": "cic.json"
+        }
+    ],
+    "textResourceConfiguration": [],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": []
+}
